@@ -1,1 +1,1 @@
-My first HTML & CSS based challenge for strengthening my basics.
+First HTML & CSS based challenge for strengthening the basics(Frontend Mentor).
